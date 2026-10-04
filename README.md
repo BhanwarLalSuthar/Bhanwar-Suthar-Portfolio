@@ -8,7 +8,7 @@ I am a Software Developer focused on building full-stack applications and backen
 
 ## What You Will Find Here
 
-- Selected production-minded side projects
+- Selected product-oriented side projects
 - Full-stack applications and APIs
 - Engineering write-ups and architecture notes
 - Live demos and project links
